@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Walmir 👋
 
-<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walmir07&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walmir07&layout=compact&langs_count=8&theme=aura&hide_border=true" height="160" alt="languages graph"  />
-</div>
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Walmir07&layout=compact&langs_count=8&theme=radical&hide_border=true)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walmir07&layout=compact&langs_count=8&theme=radical&hide_border=true" height="160" alt="languages graph"  />
 <!--
 **Walmir07/Walmir07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
