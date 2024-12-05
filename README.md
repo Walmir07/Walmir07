@@ -7,8 +7,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walmir07&layout=compact&langs_count=8&theme=radical&hide_border=true" height="160" alt="languages graph"  />
 </div>
 
-<br>
-<br>
+<hr>
+
+<h2>Principais tecnologias 🧠</h2>
+  <div>
+     <img src="https://skillicons.dev/icons?i=js,html,css,react,next,postgres,git&perline=4">
+  </div>
+
+<hr>
 
 <div align="center">
   <a href="https://instagram.com/walmir.lima_">
