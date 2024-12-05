@@ -14,8 +14,8 @@
 <hr>
 
 <h2>Principais tecnologias 🧠</h2>
-  <div>
-     <img src="https://skillicons.dev/icons?i=js,html,css,react,next,postgres,git&perline=4">
+  <div align="center">
+     <img src="https://skillicons.dev/icons?i=js,html,css,react,next,postgres,git&perline=8">
   </div>
 
 <hr>
