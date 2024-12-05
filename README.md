@@ -9,6 +9,10 @@
 
 <hr>
 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Walmir07&hide_border=true&theme=react-dark" alt="Github activity graph" />
+
+<hr>
+
 <h2>Principais tecnologias 🧠</h2>
   <div>
      <img src="https://skillicons.dev/icons?i=js,html,css,react,next,postgres,git&perline=4">
