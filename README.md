@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Walmir07&langs_count=8&disable_animations=false&theme=radical&locale=en&hide_border=true"  height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Walmir07&langs_count=8&disable_animations=false&react-dark&locale=en&hide_border=true"  height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walmir07&layout=compact&langs_count=8&theme=radical&hide_border=true" height="160" alt="languages graph"  />
 </div>
 
