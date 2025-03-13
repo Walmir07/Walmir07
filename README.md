@@ -1,4 +1,4 @@
-## Olá, me chamo Walmir. Seja bem vindo ao meu Github :)
+## Olá, me chamo Walmir 👋. Seja bem vindo ao meu Github :)
 
 <br>
 
