@@ -1,5 +1,7 @@
 ## Olá, me chamo Walmir 👋. Seja bem vindo ao meu Github :)
 
+Sou desenvolvedor FullSteck e técnico em informática formado pelo IFPB. Busco sempre me aprofundar cada vez mais no mundo da tecnologia e desenvolver projetos que possam impactar positivamente a vida das pessoas.😄
+
 <br>
 
 <div align="center">
