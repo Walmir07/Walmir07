@@ -75,8 +75,9 @@
 </br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Walmir07&langs_count=8&disable_animations=false&theme=radical&rank_icon=github&title_color=00bfbf&icon_color=00bfbf&locale=en&&border_radius=10"  height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walmir07&layout=compact&langs_count=8&theme=radical&title_color=00bfbf&icon_color=00bfbf&&border_radius=10" height="160" alt="languages graph"  />
+
+<img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Walmir07&show_icons=true&rank_icon=github&theme=holi&cache_bust=1"/>   
+<img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walmir07&hide_progress=true&theme=holi&cache_seconds=300"/>
 
 <hr>
 
