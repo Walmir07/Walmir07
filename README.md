@@ -5,7 +5,7 @@
 
 <strong></h3>Desenvolvedor Full Stack ⚙️</h3></strong>
 
-<p align="center"> Atuo no desenvolvimento de aplicações web completas, com foco em escalabilidade e performance. Tenho experiência tanto em front-end quanto em back-end, baseada no desenvolvimento de projetos pessoais e acadêmicos, priorizando arquiteturas limpas, interfaces intuitivas e boas práticas de desenvolvimento.</p>
+<p align="center"> Atuo no desenvolvimento de aplicações web completas, com foco em inovação e performance. Tenho experiência tanto em front-end quanto em back-end, baseada no desenvolvimento de projetos pessoais e acadêmicos, priorizando arquiteturas limpas, interfaces intuitivas e boas práticas de desenvolvimento.</p>
 
 <p align="center"> Sou Técnico em Informática recém formado e atualmente curso Análise e Desenvolvimento de Sistemas no Instituto Federal da Paraíba (IFPB), que complementam minha base teórica e prática em projetos reais.</p>
 </div>
