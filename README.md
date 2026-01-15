@@ -1,23 +1,23 @@
 <h1 align="center">Walmir Lima</h1>
 
-<h3 align="center">Desenvolvedor Full Stack ⚙️</h3>
+<h3 align="center">Desenvolvedor Full Stack | Web ⚙️</h3>
 
 <p align="center">
   Olá, seja bem-vindo ao meu GitHub! 😄
 </p>
 
 <p align="center">
-  Atuo no desenvolvimento de aplicações web completas, com foco em inovação e qualidade.
-  Possuo experiência em front-end e back-end, adquirida por meio de projetos pessoais e 
-  acadêmicos, sempre priorizando arquiteturas limpas, interfaces intuitivas e boas práticas
-  de desenvolvimento.
+  Desenvolvedor focado em aplicações web, atuando principalmente com <strong>JavaScript</strong>,
+  <strong>React</strong> e <strong>Node.js</strong>. Tenho experiência no desenvolvimento de
+  <strong>APIs REST</strong> e interfaces web responsivas, aplicando boas práticas,
+  organização de código e integração entre front-end e back-end.
 </p>
 
 <p align="center">
-  Sou <strong>Técnico em Informática</strong> recém-formado e atualmente curso
+  Sou <strong>Técnico em Informática</strong> e atualmente curso
   <strong>Análise e Desenvolvimento de Sistemas</strong> no
-  <strong>Instituto Federal da Paraíba (IFPB)</strong>, fortalecendo minha base teórica e prática
-  por meio de projetos reais.
+  <strong>Instituto Federal da Paraíba (IFPB)</strong>, onde venho consolidando minha base
+  técnica por meio de projetos acadêmicos e pessoais voltados para problemas reais.
 </p>
 
 </br>
@@ -26,25 +26,20 @@
   <a href="https://portfolio-walmir.vercel.app">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35" alt="Vercel logo" />
   </a>
-  <a href="https://instagram.com/walmir.lima_">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://discord.gg/walmir333">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
   <a href="mailto:walmirlima046@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/walmir-lima">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
+  <a href="https://instagram.com/walmir.lima_">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
 </div>
 
 <br/>
 
 <h2>Principais tecnologias 💻</h2> 
-
-</br>
 
 <h3>Linguagens</h3>
 
@@ -63,26 +58,21 @@
 
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <h3>Banco de dados</h3>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoD-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=#47A248)
-![DBeaver](https://img.shields.io/badge/DBeaver-4E7F9E?style=for-the-badge&logo=dbeaver&logoColor=white)
 
 <h3>Ferramentas & Outras Tecnologias</h3>
 
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </br>
 
 <h2> Estatísticas do GitHub 📚</h2>
-
-</br>
 
 <div align="center">
 
