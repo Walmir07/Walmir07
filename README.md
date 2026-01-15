@@ -1,14 +1,24 @@
-<div align="center">
+<h1 align="center">Walmir Lima</h1>
 
-<h1>Walmir Lima</h1>
-<h2>Olá, seja bem vindo ao meu GitHub! 😄</h2>
+<h3 align="center">Desenvolvedor Full Stack ⚙️</h3>
 
-<strong></h3>Desenvolvedor Full Stack ⚙️</h3></strong>
+<p align="center">
+  Olá, seja bem-vindo ao meu GitHub! 😄
+</p>
 
-<p align="center"> Atuo no desenvolvimento de aplicações web completas, com foco em inovação e performance. Tenho experiência tanto em front-end quanto em back-end, baseada no desenvolvimento de projetos pessoais e acadêmicos, priorizando arquiteturas limpas, interfaces intuitivas e boas práticas de desenvolvimento.</p>
+<p align="center">
+  Atuo no desenvolvimento de aplicações web completas, com foco em inovação e qualidade.
+  Possuo experiência em front-end e back-end, adquirida por meio de projetos pessoais e 
+  acadêmicos, sempre priorizando arquiteturas limpas, interfaces intuitivas e boas práticas
+  de desenvolvimento.
+</p>
 
-<p align="center"> Sou Técnico em Informática recém formado e atualmente curso Análise e Desenvolvimento de Sistemas no Instituto Federal da Paraíba (IFPB), que complementam minha base teórica e prática em projetos reais.</p>
-</div>
+<p align="center">
+  Sou <strong>Técnico em Informática</strong> recém-formado e atualmente curso
+  <strong>Análise e Desenvolvimento de Sistemas</strong> no
+  <strong>Instituto Federal da Paraíba (IFPB)</strong>, fortalecendo minha base teórica e prática
+  por meio de projetos reais.
+</p>
 
 </br>
 
