@@ -76,8 +76,9 @@
 
 <div align="center">
 
-<img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Walmir07&show_icons=true&rank_icon=github&theme=holi&cache_bust=1"/>   
-<img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walmir07&hide_progress=true&theme=holi&cache_seconds=300"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Walmir07&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walmir07&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 <hr>
 
